@@ -1,5 +1,5 @@
 <h1 text-align="center">Video Games App</h1>
-
+<img src="https://s3.eu-central-1.amazonaws.com/stajim/media/images/company/cover/1809_20210422104901.jpg">
 <h4>Task TODO List</h4>
 
 <ul style="list-style-type:circle">
